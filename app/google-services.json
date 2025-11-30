@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231196458746",
+    "project_id": "myspy-5d57a",
+    "storage_bucket": "myspy-5d57a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231196458746:android:74bb912f6769f17d265343",
+        "android_client_info": {
+          "package_name": "in.spyapp.patanjali.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAofZjkn14XFWU73bPt0S8fA1rCC8riOpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
